@@ -1,0 +1,6 @@
+@TravianMapWebAPI_HostAddress = http://localhost:5067
+
+GET {{TravianMapWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
